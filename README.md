@@ -10,7 +10,7 @@ In this work, we used datasets on emotional responses and comments to COVID-19 t
 [Dataset used for Prediction which is from January 1st to April 17th](https://www.kaggle.com/tianysun/covidtext): used for topic extraction and prediction.
 
 **Models:**
-* Model used for sentiment classification:
+* Models used for sentiment classification:
 
 Model Name | Accuracy |
 ------------ | -------------
