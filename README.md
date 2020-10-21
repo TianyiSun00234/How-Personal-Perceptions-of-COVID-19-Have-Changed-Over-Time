@@ -5,4 +5,7 @@ In this work, we used datasets on emotional responses and comments to COVID-19 t
 
 **Data:**
 
-[Ground Truth]()
+[Ground Truth](arxiv.org/abs/2004.04225)
+
+[Dataset used for Prediction](https://www.kaggle.com/tianysun/covidtext), which is from January 1st to April 17th.
+
