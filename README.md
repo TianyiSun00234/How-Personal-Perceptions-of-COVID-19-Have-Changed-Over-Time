@@ -1,13 +1,13 @@
 # How-Personal-Perceptions-of-COVID-19-Have-Changed-Over-Time
  **Abstract:**
 
-In this work, we used datasets on emotional responses and comments to COVID-19 to analyze people’s perceptions to- wards COVID-19. Based on the trend of perceptions, we pre- dicted the trend for the next month.
+In this work, we used datasets on emotional responses and comments to COVID-19 to analyze people’s perceptions towards COVID-19. Based on the trend of perceptions, we predicted the trend for the next month.
 
 **Data:**
 
 [Ground Truth](https://arxiv.org/abs/2004.04225): used for training the sentiment classification models.
 
-[Dataset used for Prediction which is from January 1st to April 17th](https://www.kaggle.com/tianysun/covidtext): used for topic extraction and prediction.
+[Dataset used for prediction from January 1st to April 17th](https://www.kaggle.com/tianysun/covidtext): used for topic extraction and prediction.
 
 **Models:**
 * Models used for sentiment classification:
