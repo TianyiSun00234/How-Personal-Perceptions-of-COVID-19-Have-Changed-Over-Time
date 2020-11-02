@@ -15,12 +15,12 @@ In this work, we used datasets on emotional responses and comments to COVID-19 t
 Model Name | Accuracy |
 ------------ | -------------
 Naive Bayes  | 0.8440
-Logistic Reg | 0.9528
-Random Forest | 0.7337
+Logistic Regression | 0.9528
+Random Forests | 0.7337
 BERT | 0.8538
 XLNet | 0.6547
 Liear SVM | 0.7989
-LinearSVC | 0.9218
+Linear SVC | 0.9218
 LSTM | 0.9534
 RoBERTa | 0.7410
 DistilBERT | 0.8987
